@@ -1,0 +1,5 @@
+##Learnings
+Optimize tuning values for an EKF to minimize SOC estimation error
+Optimize tuning values for an EKF to minimize error bounds while simultaneously ensuring errors are within bounds
+Optimize tuning values for an SPKF to minimize SOC estimation error
+Optimize tuning values for an SPKF to minimize error bounds while simultaneously ensuring errors are within bound
